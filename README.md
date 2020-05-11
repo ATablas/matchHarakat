@@ -1,8 +1,8 @@
 # matchHarakat
 
 <div style="direction:rtl;">
-هذه مكتبة صغيرة مبنية على PHP والغرض منها التحقق من المطابقة الجزئية أو الكلية لسلسلتين نصيتين من ناحية الحركات.<br>
-الدالة الرئيسية المستخدمة تعتمد على دالة أخرى موجودة في الملف نفسه، ضرورية للتطابق مع سلاسل UTF.<br></div>
+هذه مكتبة صغيرة مبنية على بي إتش بي والغرض منها التحقق من المطابقة الجزئية أو الكلية لسلسلتين نصيتين من ناحية الحركات.<br>
+الدالة الرئيسية المستخدمة تعتمد على دالة أخرى موجودة في الملف نفسه، ضرورية للتطابق مع المحارف العربية.<br></div>
 This is a pure PHP library that has a function to check whether or not two strings match completely/partially in terms of diacritics.<br>
 The function used depends on another function for compatibility with UTF-8 strings.<br>
 

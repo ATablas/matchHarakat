@@ -7,8 +7,9 @@ Simple include it in your PHP script as follows:<br>
 require 'harakat_lib.php';
 
 Then check the 2 strings matching as follows:<br>
+<pre style="background-color:grey;">
 if( harkatMatching($first_string, $second_string) )
 {
   //do something
 }
-
+</pre>
